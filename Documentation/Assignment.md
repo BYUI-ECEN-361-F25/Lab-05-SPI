@@ -1,4 +1,4 @@
-# ECEN-361 Lab-05:SPI & Logic Analyzer
+# ECEN-361 Lab-05: Comm Protocols & Logic Analyzer
 
      Student Name:  Fill-in HERE
 
